@@ -48,7 +48,15 @@
 
 	body {
 		-webkit-text-size-adjust: none;
-	}
+  }
+  
+  #landing {
+    margin: 0 5em 0 5em;
+  }
+
+  #landing ul {
+    list-style-type: none;
+  }
 
 /* Box Model */
 
