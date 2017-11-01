@@ -58,6 +58,28 @@
     list-style-type: none;
   }
 
+  #cvBody ul {
+    list-style-type: none;
+  }
+
+  #cvBody li {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  .pBody ul {
+    list-style-type: none;
+  }
+
+  .pBody li {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  #p4Reports {
+    list-style-type: none;
+  }
+
 /* Box Model */
 
 	*, *:before, *:after {
