@@ -2478,7 +2478,16 @@
 
 			table.alt tfoot {
 				border-top: 0;
-			}
+      }
+      
+  .cvTable {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
+  .cvDate {
+    width: 6em;
+  }
 
 /* Button */
 
@@ -2620,8 +2629,9 @@
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
-		margin: -2.5em 0 0 -2.5em;
+		/* position: relative; */
+    margin: -2.5em 0 0 -2.5em;
+    justify-content: center;
 	}
 
 		.tiles article {
@@ -2781,6 +2791,10 @@
 
 			.tiles article.style6 > .image:before {
 				background-color: #2D882D;
+			}
+      
+      .tiles article.style7 > .image:before {
+				background-color: #AA6639;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
