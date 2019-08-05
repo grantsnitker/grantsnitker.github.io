@@ -487,15 +487,15 @@ input, select, textarea {
 		}
 
 			.row.gtr-200 > * {
-				padding: 115px 0 0 115px;
+				padding: 105px 0 0 105px;
 			}
 
 			.row.gtr-200.gtr-uniform {
-				margin-top: -115px;
+				margin-top: -105px;
 			}
 
 				.row.gtr-200.gtr-uniform > * {
-					padding-top: 115px;
+					padding-top: 105px;
 				}
 
 		@media screen and (max-width: 1680px) {
