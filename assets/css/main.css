@@ -486,15 +486,15 @@ input, select, textarea {
 			margin-left: -105px;
 		}
 
-			.row.gtr-200 > * {
+			.row.gtr-300 > * {
 				padding: 105px 0 0 105px;
 			}
 
-			.row.gtr-200.gtr-uniform {
+			.row.gtr-300.gtr-uniform {
 				margin-top: -105px;
 			}
 
-				.row.gtr-200.gtr-uniform > * {
+				.row.gtr-300.gtr-uniform > * {
 					padding-top: 105px;
 				}
 
