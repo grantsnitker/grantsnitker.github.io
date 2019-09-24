@@ -2700,7 +2700,7 @@ input, select, textarea {
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
-		height: 20em;
+		height: 15em;
 		text-align: center;
 		position: relative;
 	}
